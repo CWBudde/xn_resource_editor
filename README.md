@@ -4,4 +4,5 @@ This is an unofficial mirror of XN Resource Editor. I created it since the files
 Please see the website for more details: https://stefansundin.github.io/xn_resource_editor/
 
 ## Important Note!
-Unfortuately the source code in this repository is not the latest by the original author. It is recommended to rather use https://github.com/zuloloxi/XN-Resource-Editor instead
+Unfortuately the source code in this repository is not the latest by the original author. It is recommended to rather use https://github.com/zuloloxi/XN-Resource-Editor instead.
+Based on that repository there is also another interesting fork available here: https://github.com/CWBudde/XN-Resource-Editor
